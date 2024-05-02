@@ -1,0 +1,57 @@
+No contexto fornecido, o CRM no local é descrito como software instalado no domicílio ou nas instalações de uma empresa, como um pequeno servidor. Trata-se de um instrumento que a empresa possui e gere. Por outro lado, a SAS (Software as a Service) é descrita como software baseado na nuvem a que as empresas podem aceder e utilizar através da Internet. Trata-se de um modelo baseado em assinaturas em que as empresas pagam o acesso ao software, mas não o possuem nem gerem. A principal diferença entre ambos reside no facto de a CRM no local ser uma solução instalada que a empresa tem de manter e gerir, ao passo que a SAS é uma solução baseada na nuvem a que a empresa pode aceder facilmente e não tem de gerir.
+
+CRM Enterprise: É um sistema de gerenciamento de relacionamento com o cliente implantado localmente nas instalações de uma empresa. Por exemplo, uma empresa configura e mantém seu próprio sistema de CRM em seus servidores.
+SAS (Software as a Service): É um modelo em que o software é hospedado na nuvem e acessado pela internet. Por exemplo, uma empresa usa um serviço de CRM baseado em nuvem onde paga uma assinatura mensal para acessar o software sem precisar instalá-lo em seus próprios servidores.
+
+CRM – Gestão das Relações com os Clientes
+SCS - Sucesso do Cliente
+CSA – Zona de Sucesso dos Clientes
+ROI – Rendibilidade dos investimentos
+GPS – Sistema Global de Posicionamento
+SMS - Sucesso no Mercado
+NPS - Pontuação Líquida dos Promotores
+CSAT - Pontuação de Satisfação do Cliente
+CCCH – Taxa de Churn do Cliente
+VLTP – Valor ao longo do tempo de vida
+ARPU – Receitas médias por utilizador
+Lucro bruto - Receitas totais obtidas por uma empresa antes da dedução dos custos
+TCO - Custo total de propriedade
+ROAS – Rendimento das despesas com publicidade
+CAAC – Custos de aquisição dos clientes
+RSE – Taxa de Sucesso dos Clientes
+CSAT - Pontuação de Satisfação do Cliente
+NRR – Receitas Líquidas
+ARI - Receitas médias por conta
+CSA – Zona de Sucesso dos Clientes
+CSM - Gestor de Sucesso do Cliente
+
+
+O ticket médio é uma métrica que calcula o valor médio gasto por cliente em uma transação. Para calcular o ticket médio, você soma o total das vendas e divide pelo número de transações. Isso ajuda as empresas a entenderem quanto os clientes estão gastando em média, o que pode ser útil para estratégias de precificação, segmentação de clientes e projeções de receita.
+
+A segmentação no contexto do sucesso dos clientes refere-se à divisão da base de clientes em diferentes categorias, em função da sua importância ou do seu impacto potencial na empresa. Isto é feito para garantir que os clientes mais importantes recebem a atenção e os recursos necessários. No contexto fornecido, os clientes dividem-se em três bandas: Raitants (os maiores clientes), Meditants (clientes importantes mas que podem não ter um grande impacto financeiro) e Relutantes (clientes que podem não ter um impacto financeiro significativo e que podem requerer menos atenção). Esta segmentação permite à empresa afectar os recursos de forma eficaz e garantir que estes mantêm os clientes mais importantes envolvidos e satisfeitos.
+
+O percurso do cliente começa com o facto de este compreender o resultado pretendido. Segui-se-lhe um processo contínuo de empenhamento e de aquecimento do cliente durante todo o seu percurso. O objectivo é garantir que o cliente está a alcançar o resultado desejado e está satisfeito com o produto. O percurso é renovado em cada fase, quer regressando às fases anteriores, quer introduzindo novos elementos no produto que respondam à evolução das necessidades do cliente. O objectivo final é manter o cliente e torná-lo um cliente leal para toda a vida.
+
+Upsell: O upsell ocorre quando um cliente já está comprando um produto ou serviço, e o representante de atendimento ao cliente sugere que ele compre um produto ou serviço mais caro, geralmente com recursos adicionais ou de maior qualidade. Por exemplo, se um cliente está comprando um smartphone, o representante de atendimento ao cliente pode sugerir um modelo mais avançado com mais recursos, mesmo que seja mais caro.
+Cross-sell: O cross-sell acontece quando um cliente já está comprando um produto ou serviço, e o representante de atendimento ao cliente sugere que ele compre produtos ou serviços complementares ou relacionados. Por exemplo, se um cliente está comprando um laptop, o representante de atendimento ao cliente pode sugerir a compra de uma bolsa para laptop, um mouse ou um pacote de software.
+
+O compromisso refere-se à estratégia utilizada para manter um cliente a utilizar e comprar activamente o produto ou serviço de uma empresa. Envolve um acompanhamento estreito com o cliente, a fim de assegurar que este utiliza o produto da melhor forma possível, realizando reuniões frequentes, proporcionando educação e formação e utilizando estratégias de jogo para recompensar e motivar os clientes. O objectivo do compromisso consiste em evitar que os clientes se confundam e garantir que o cliente se mantém satisfeito com o produto ou serviço.
+
+Retenção:
+A retenção de clientes se refere à capacidade de uma empresa em manter seus clientes ao longo do tempo.
+É uma medida de quão bem a empresa está conseguindo manter seus clientes existentes e evitar que eles migrem para a concorrência.
+Geralmente, a retenção é medida pela taxa de churn, que é a taxa de perda de clientes ao longo de um determinado período de tempo. Uma taxa de churn baixa indica uma boa retenção de clientes.
+Engajamento:
+O engajamento do cliente se refere ao envolvimento e interação dos clientes com a empresa e seus produtos ou serviços.
+É uma medida de quão ativamente os clientes estão participando das atividades da empresa, como visitar o site, interagir com as redes sociais, abrir e-mails, etc.
+O engajamento pode ser medido por métricas como taxas de cliques, tempo gasto no site, número de interações em redes sociais, entre outros. Um alto nível de engajamento geralmente indica clientes satisfeitos e interessados.
+
+A retenção no contexto da CRM refere-se às estratégias e esforços desenvolvidos por uma empresa para manter os seus clientes. Isto inclui compreender as necessidades do cliente, antecipar e abordar questões potenciais, oferecer programas de fidelização e prestar um serviço excepcional ao cliente. O objectivo é garantir que o cliente está satisfeito com o produto ou serviço e continua a utilizá-lo, reduzindo assim o volume de negócios ou o volume de negócios dos clientes. A retenção é uma medida fundamental para medir o sucesso de uma estratégia de CRM.
+
+A taxa de redução do logótipo refere-se à percentagem de clientes que uma empresa perde todos os meses ou anos. Uma taxa elevada de redução do logótipo indica que a empresa não está efectivamente a envolver-se com os seus clientes. Por outro lado, a taxa de redução da TMR (Receitas Recorrentes Mensais) mede a percentagem das receitas que uma empresa perde devido a tal redução. Este montante é calculado dividindo as receitas perdidas pelo total das receitas mensais. Tanto a taxa de churn do logótipo como a taxa de churn do logótipo são parâmetros importantes para uma empresa monitorizar, uma vez que podem indicar potenciais problemas financeiros e áreas para melhorar o envolvimento e as estratégias de retenção dos clientes.
+
+O Net Promoter Score (NPS) é uma métrica de satisfação do cliente que mede a disposição dos clientes em recomendar uma empresa a outras pessoas. Varia de -100 a +100. Clientes promotores (pontuação 9-10) são entusiastas, detratores (pontuação 0-6) são insatisfeitos, e pontuações 7-8 são neutras. O cálculo é: % de promotores - % de detratores.
+
+
+
+
