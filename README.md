@@ -105,3 +105,25 @@ Fórmulas para calcular o LTV (Lifetime Value) e o CAC (Customer Acquisition Cos
 - KPI
 - Power BI
 - RPA
+---
+### Siglas que foram usadas na Aula:
+- CRM Enterprise: É um sistema de gerenciamento de relacionamento com o cliente implantado localmente nas instalações de uma empresa. Por exemplo, uma empresa configura e mantém seu próprio sistema de CRM em seus servidores.
+- SAS (Software as a Service): É um modelo em que o software é hospedado na nuvem e acessado pela internet. Por exemplo, uma empresa usa um serviço de CRM baseado em nuvem onde paga uma assinatura mensal para acessar o software sem precisar instalá-lo em seus próprios servidores.
+- CRM – Gestão das Relações com os Clientes
+- SCS - Sucesso do Cliente
+- CSA – Zona de Sucesso dos Clientes
+- ROI – Rendibilidade dos investimentos
+- GPS – Sistema Global de Posicionamento
+- SMS - Sucesso no Mercado
+- NPS - Pontuação Líquida dos Promotores
+- CCCH – Taxa de Churn do Cliente
+- VLT – Valor ao longo do tempo de vida
+- ARPU – Receitas médias por utilizador
+- Lucro bruto - Receitas totais obtidas por uma empresa antes da dedução dos custos
+- TCO - Custo total de propriedade
+- ROAS – Rendimento das despesas com publicidade
+- CAAC – Custos de aquisição dos clientes
+- RSE – Taxa de Sucesso dos Clientes
+- CSAT - Pontuação de Satisfação do Cliente
+- NRR – Receitas Líquidas
+- ARI - Receitas médias por conta
