@@ -127,3 +127,8 @@ Fórmulas para calcular o LTV (Lifetime Value) e o CAC (Customer Acquisition Cos
 - CSAT - Pontuação de Satisfação do Cliente
 - NRR – Receitas Líquidas
 - ARI - Receitas médias por conta
+---
+### Slides passado pelo professor após a aula
+- [10 Mandamentos do Customer Centric](https://docs.google.com/presentation/d/1bPv1yJd6pZAvuH7fb-4-vfUPl4XQSnWdDmoG8wJhvss/edit?pli=1#slide=id.g1f7fc013b22_0_411)
+- [10 Mandamentos do Atendimento ao Cliente](https://docs.google.com/presentation/d/1b5xxJjv5XLPefymZhCCWCLxQci6fCIx_JoQI9BlwPCg/edit#slide=id.g1f7fb0d698e_0_407)
+  
